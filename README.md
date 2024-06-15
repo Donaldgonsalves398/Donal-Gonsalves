@@ -4,27 +4,17 @@ Welcome to my GitHub profile! I'm a passionate Business / Data Analyst with a Po
 
 I'm proficient in CRM Implementation, Requirement Gathering, and Data Warehousing and Reporting techniques. Also have a strong background in programming, coupled with a passion for problem-solving and a keen eye for detail.
 
-- 🌱 Currently learning advanced React techniques and TensorFlow
-- 💼 Working on full-stack development at XYZ Company
-- 👯 Looking to collaborate on open-source projects in web development and machine learning
-- 💬 Ask me about JavaScript, Python, and machine learning
-- 📫 How to reach me: jane.doe@example.com or connect with me on LinkedIn
-- ⚡ Fun fact: I love hiking and have climbed Mt. Kilimanjaro!
-
 ---
-
-#### My GitHub Stats 📊
-
-![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
 
 #### Top Languages 💻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact&theme=radical)
+- Languages: Python, SQL, HTML
+- Databases: Oracle, Microsoft Sql Server, Access, PostgreSQL
+- Tools and Cloud: Power BI, Tableau, GCP, Azure Data Factory, Snowflake, Postman, Git, Jenkins, 
 
 ---
 
 #### Get in Touch 📫
 
-- LinkedIn: [Jane Doe](https://www.linkedin.com/in/janedoe)
-- Personal Website: [Jane's Portfolio](https://www.janedoe.com)
-- Twitter: [@JaneDoe](https://twitter.com/janedoe)
+- LinkedIn: [Donal Gonsalves](https://www.linkedin.com/in/donalgonsalves/)
+- Gmail: [Donal Gonsalves](donald.gonsalves398@gmail.com)
